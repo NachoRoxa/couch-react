@@ -15,6 +15,4 @@ So now that I found a job, or the job found me, I don't remember to send my CV t
 
 - They have 2 projects one with Semantic-UI and the other with Ant Desing. I hate Ant because when I installed it on the last repo of the project it fucked up everything with the version of Webpack, but to be honest it was my mistake for not saving the project nor back it up on Git and it was on the master branch.
 
-- Which brings me to the last thing that I'll be learning, Git. Don't get me wrong I know the basics of git is just that I don't have the habit of pushing everything, so I need to work on that. Also in my current job I work with one guy that have a real mess on one repo in Bitbucket, but really IS A FUCKING MESS!
-
-So, in order to work better I propose to implement GitFlow which will help us both since neither one of us have the habit of branching, featuring or keeping the repos in order.
+- Which brings me to the last thing that I'll be learning, Git. Don't get me wrong I know the basics of git is just that I don't have the habit of pushing everything, so I need to work on that. Also in my current job I work with one guy that have a real mess on one repo in Bitbucket, but really IS A FUCKING MESS! So, in order to work better I propose to implement GitFlow which will help us both since neither one of us have the habit of branching, featuring or keeping the repos in order.
