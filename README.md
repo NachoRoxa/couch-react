@@ -1,68 +1,20 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Ok, I hope that this will be the last repo that I'll ever create for this shit.
+In this seudo project I want to test a lot of stuff that I'm currently trying to learn, well actually... to be honest I've been trying the whole year, 2019.
 
-## Available Scripts
+## Thing that I'm trying to learn and implement
 
-In the project directory, you can run:
+Well for the last seven months, since I finished my practice I wanted to learn React, but my knowledge on JS was not so good, outrageous to be more accurate, for that reason I started to learn JavaScript.
 
-### `npm start`
+That went well for like a month, I get bored and lost enthusiasm and like many other thing I leave it there.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+So now that I found a job, or the job found me, I don't remember to send my CV to that offer jajaja; I need to get my knowledge to the top learning this things:
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+- Of course the most critical is JS because they work with React so in order to be better at React I have to start with the basics.
 
-### `npm test`
+- The Database is in CouchDB so I have to learn how to work JSON files and shit, so again JS.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- They have 2 projects one with Semantic-UI and the other with Ant Desing. I hate Ant because when I installed it on the last repo of the project it fucked up everything with the version of Webpack, but to be honest it was my mistake for not saving the project nor back it up on Git and it was on the master branch.
 
-### `npm run build`
+- Which brings me to the last thing that I'll be learning, Git. Don't get me wrong I know the basics of git is just that I don't have the habit of pushing everything, so I need to work on that. Also in my current job I work with one guy that have a real mess on one repo in Bitbucket, but really IS A FUCKING MESS!
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+So, in order to work better I propose to implement GitFlow which will help us both since neither one of us have the habit of branching, featuring or keeping the repos in order.
