@@ -7,7 +7,8 @@
     "core-js": "^3.4.7",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.2.0"
+    "react-scripts": "3.2.0",
+    "semistandard": "^14.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -30,10 +31,23 @@
       "last 1 safari version"
     ]
   },
+  "semistandard": {
+    "ignore": [
+      "/src/serviceWorker.js",
+      "/src/App.test.js"
+    ]
+  },
   "devDependencies": {
     "@babel/cli": "^7.7.4",
     "@babel/core": "^7.7.4",
     "babel-plugin-import": "^1.13.0",
+    "eslint-config-semistandard": "^15.0.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.19.1",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "semistandard": "14.2.0",
     "webpack": "^4.41.0",
     "webpack-cli": "^3.3.10"
   }

@@ -1,24 +1,35 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { Select, Form } from 'antd';
 
-function App() {
+function App () {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='App'>
+      <Form>
+        <Select placeholder='Test of Fuck'>
+          <optgroup label='Jobs' key='2'>
+            <option value='Engineer'>Engineer</option>
+            <option value='Dev'>Dev</option>
+            <option value='Tech'>Tech</option>
+          </optgroup>
+          <optgroup label='Somes' key='4'>
+            <option value='Something'>Something</option>
+            <option value='Someone'>Someone</option>
+            <option value='Someshit'>SomeShit</option>
+          </optgroup>
+        </Select>
+        <Select placeholder='Test of Fuck'>
+          <optgroup label='Jobs' key='2'>
+            <option value='Engineer'>Engineer</option>
+            <option value='Dev'>Dev</option>
+            <option value='Tech'>Tech</option>
+          </optgroup>
+          <optgroup label='Somes' key='4'>
+            <option value='Something'>Something</option>
+            <option value='Someone'>Someone</option>
+            <option value='Someshit'>SomeShit</option>
+          </optgroup>
+        </Select>
+      </Form>
     </div>
   );
 }

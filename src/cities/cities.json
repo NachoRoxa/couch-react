@@ -1,0 +1,85 @@
+{
+  "regiones": [{
+      "region": "Región de Arica y Parinacota",
+      "comunas": ["Arica", "Putre"]
+    },
+    {
+      "region": "Región Tarapaca",
+      "comunas": ["Alto Hospicio", "Iquique"]
+    },
+    {
+      "region": "Región de Antofagasta",
+      "comunas": ["Antofagasta", "Calama", "Mejillones", "San Pedro de Atacama", "Taltal", "Tocopilla"]
+    },
+    {
+      "region": "Región de Atacama",
+      "comunas": ["Caldera", "Chañaral", "Copiapo", "Diego de Almagro", "El Salvador", "Huasco", "Tierra Amarilla", "Vallenar"]
+    },
+    {
+      "region": "Región de Coquimbo",
+      "comunas": ["Andacollo", "Combarbala", "Coquimbo", "El Palqui", "Illapel", "La Serena", "Los Vilos", "Monte Patria", "Ovalle", "Punitaqui", "Salamanca", "Tongoy", "Vicuña"]
+    },
+    {
+      "region": "Región de Valparaiso",
+      "comunas": ["Algarrobo", "Cabildo", "Calle Larga", "Cartagena", "Casablanca", "Catemu", "Concon", "El Melon", "El Quisco", "El Tabo", "El Yeco", "Hanga Roa", "Hijuelas", "La Calera",
+        "La Cruz", "La Ligua", "Las Cruces", "Las Ventanas", "Limache", "Llaillay", "Los Andes", "Mirasol", "Nogales", "Olmue", "Puchincavi", "Putaendo", "Quillota", "Quilpue", "Quintero",
+        "Rinconada", "San Antonio", "San Esteban", "San Felipe", "Santa Maria", "Santo Domingo", "Valparaiso", "Villa Alemana", "Villa Los Almendros", "Viña del Mar"
+      ]
+    },
+    {
+      "region": "Región Metropolitana",
+      "comunas": ["Alto Jahuel", "Batuco", "Buin", "Cerrillos", "Cerro Navia", "Chicureo", "Chicauma", "Conchali", "Colina", "Curacavi", "El Bosque", "El Monte", "Estacion Central",
+        "Huechuraba", "Independencia", "Isla de Maipo", "Lampa", "La Cisterna", "La Florida", "La Granja", "La Pintana", "La Obra", "La Reina", "Las Condes", "Lo Barnechea", "Lo Espejo",
+        "Lo Prado", "Macul", "Maipu", "Melipilla", "Ñuñoa", "Padre Hurtado", "Paine", "Pedro Aguirre Cerda", "Peñaflor", "Peñalolen", "Providencia", "Pirque", "Pudahuel", "Puente Alto",
+        "Quilicura", "Quinta Normal", "Recoleta", "Renca", "San Bernardo", "San Joaquin", "San Jose de Maipo", "San Miguel", "San Ramon", "Talagante", "Tiltil", "Vitacura"
+      ]
+    },
+    {
+      "region": "Región del Libertador General Bernardo O'Higgins",
+      "comunas": ["Chepica", "Chimbarongo", "Codegua", "Coltauco", "Doñihue", "Graneros", "Gultro", "Las Cabras", "Lo Miranda", "Los Lirios", "Machali", "Nancagua", "Peralillo",
+        "Peumo", "Pichidegua", "Pichilemu", "Quinta de Tilcoco", "Rancagua", "Rengo", "Requinoa", "San Fernando", "San Francisco de Mostazal", "San Vicente de Tagua Tagua", "Santa Cruz"
+      ]
+    },
+    {
+      "region": "Región del Maule",
+      "comunas": ["Cauquenes", "Colbun", "Constitucion", "Curico", "Hualañe", "Linares", "Longavi", "Maule", "Molina", "Parral", "Rauco", "Retiro", "Romeral", "San Clemente", "San Javier",
+        "Talca", "Teno", "Villa Alegre"
+      ]
+    },
+    {
+      "region": "Región de Ñuble",
+      "comunas": ["Bulnes", "Chillan", "Chillan Viejo", "Coelemu", "Coihueco", "Quillon", "Quirihue", "San Carlos", "Yungay"]
+    },
+    {
+      "region": "Región del Biobio",
+      "comunas": ["Arauco", "Cabrero", "Cañete", "Chiguayante", "Coronel", "Curanilahue", "Concepcion", "Coronel", "Hualpen", "Hualqui", "Huepil", "La Laja", "Laraquete", "Lebu", "Los Alamos",
+        "Los Angeles", "Lota", "Monte Aguila", "Mulchen", "Nacimiento", "Penco", "San Pedro de la Paz", "San Rosendo", "Santa Barbara", "Santa Juana", "Talcahuano", "Yumbel"
+      ]
+    },
+    {
+      "region": "Región de La Araucania",
+      "comunas": ["Angol", "Cajon", "Carahue", "Collipulli", "Cunco", "Curacautin", "Freire", "Gorbea", "Labranza", "Lautaro", "Loncoche", "Nueva Imperial", "Padre Las Casas", "Pitrufquen",
+        "Pucon", "Puren", "Reinaco", "Vilcun", "Victoria", "Villarica", "Temuco", "Traiguen"
+      ]
+    },
+    {
+      "region": "Región de Los Rios",
+      "comunas": ["Futrono", "Lanco", "La Union", "Los Lagos", "Paillaco", "Panguipulli", "Rio Bueno", "San Jose de la Mariquina", "Valdivia"]
+    },
+    {
+      "region": "Región de Los Lagos",
+      "comunas": ["Alerce", "Ancud", "Calbuco", "Castro", "Chaiten", "Chonchi", "Dalcahue", "Fresia", "Frutillar", "Llanquihue", "Los Muermos", "Osorno", "Puerto Montt", "Puerto Varas",
+        "Purranque", "Quellon", "Rio Negro"
+      ]
+    },
+    {
+      "region": "Región de Aysen del General Carlos Ibañez del Campo",
+      "comunas": ["Chile Chico", "Cochrane", "Coyhaique", "Puerto Aysen"]
+    },
+    {
+      "region": "Región de Magallaes y de la Antartica Chilena",
+      "comunas": ["Porvenir", "Punta Arenas", "Puerto Natales", "Puerto Williams"]
+    }
+
+  ]
+}
