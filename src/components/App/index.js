@@ -80,11 +80,11 @@ class App extends Component {
     this.fetchSearchTopStories(searchTerm);
   }
 
-  onSearchChange (event) {
+  handleOnSearchChange (event) {
     this.setState({ searchTerm: event.target.value });
   }
 
-  onSearchSubmit (event) {
+  handleOnSearchSubmit (event) {
     const { searchTerm } = this.state;
     this.setState({ searchKey: searchTerm });
 
@@ -95,7 +95,7 @@ class App extends Component {
     event.preventDefault();
   }
 
-  onDismiss (id) {
+  handleOnDismiss (id) {
     const { searchKey, results } = this.state;
     const { hits, page } = results[searchKey];
 
@@ -132,15 +132,15 @@ class App extends Component {
         <div className='interactions'>
           <Search
             value={searchTerm}
-            onChange={this.onSearchChange}
-            onSubmit={this.onSearchSubmit}
+            onChange={this.handleOnSearchChange}
+            onSubmit={this.handleOnSearchSubmit}
           >
             Search
           </Search>
         </div>
         <Table
           list={list}
-          onDismiss={this.onDismiss}
+          onDismiss={this.handleOnDismiss}
         />
         <div className='interactions'>
           <Button onClick={() => this.fetchSearchTopStories(searchKey, page + 1)}>
